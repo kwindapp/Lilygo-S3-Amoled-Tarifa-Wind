@@ -1,4 +1,6 @@
-Flash on get.kwind.app or 
+Flash on get.kwind.app 
+https://get.kwind.app/flasher
+or 
 https://espressif.github.io/esptool-js/
 settings
 boot 0x0000
